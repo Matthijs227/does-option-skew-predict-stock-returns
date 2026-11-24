@@ -1,0 +1,6 @@
+# WRDS / OptionMetrics / JKP data may not be redistributed: never commit data
+data/
+sealed/
+*.parquet
+*.csv
+__pycache__/
